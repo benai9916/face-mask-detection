@@ -1,0 +1,9 @@
+keras
+numpy
+matplotlib
+flask
+flask_cors
+Werkzeug
+gunicorn
+opencv-contrib-python-headless
+tensorflow
