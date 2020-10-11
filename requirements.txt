@@ -1,0 +1,10 @@
+keras
+numpy
+matplotlib
+flask
+flask_cors
+Werkzeug
+gunicorn
+opencv-contrib-python-headless
+gdown
+tensorflow-cpu
